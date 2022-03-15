@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   fill="none"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="bnb.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.3504058"
+     inkscape:cx="17.903322"
+     inkscape:cy="47.30309"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="3712"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <g
+     id="g117"
+     transform="matrix(0.04446155,0,0,0.04446155,1.6166876,1.6166876)">
+    <ellipse
+       cx="323.5"
+       cy="323.5"
+       rx="223.5"
+       ry="236.5"
+       fill="#ffffff"
+       id="ellipse9" />
+    <path
+       d="M 323.5,647 C 144.827,647 0,502.173 0,323.5 0,144.827 144.827,0 323.5,0 502.173,0 647,144.827 647,323.5 647,502.173 502.173,647 323.5,647 Z m -78.53,-355.769 78.53,-78.53 78.57,78.57 45.694,-45.694 L 323.5,121.312 199.276,245.536 Z M 121.312,323.5 167.007,369.194 212.701,323.5 167.007,277.806 Z m 123.658,32.269 -45.755,45.634 0.061,0.061 L 323.5,525.688 447.764,401.423 v -0.02 L 402.07,355.708 323.5,434.299 Z M 434.299,323.5 479.993,369.194 525.688,323.5 479.993,277.806 Z m -64.458,-0.04 h 0.021 l -46.362,-46.342 -34.271,34.251 -3.942,3.942 -8.108,8.128 -0.081,0.061 0.081,0.061 46.301,46.321 46.382,-46.362 0.02,-0.02 -0.041,-0.02 z"
+       fill="#f3ba2f"
+       id="path11" />
+  </g>
+</svg>
