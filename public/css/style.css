@@ -70,7 +70,7 @@
 
 #header {
 	width: 100%;
-	background-color: #202d52;
+	background-color: #010b12;
 	transition: background ease-out 0.2s;
 }
 
@@ -79,7 +79,7 @@
 }
 
 #header .active {
-	border-bottom: solid 4px #dbb073;
+	border-bottom: solid 4px #017ec2;
 }
 
 #header .nav-link {
@@ -100,14 +100,14 @@ div.d-lg-none ul.dropdown-menu {
 }
 
 div.d-lg-block a.dropdown-item {
-	color: #dbb073;
+	color: #017ec2;
 	text-align: center;
 	text-transform: uppercase;
 	font-weight: bolder;
 }
 
 div.d-lg-none a.dropdown-item {
-	color: #dbb073;
+	color: #017ec2;
 	text-align: start;
 	text-transform: uppercase;
 	font-weight: bolder;
@@ -115,7 +115,7 @@ div.d-lg-none a.dropdown-item {
 }
 
 #receivesend {
-	background-color: #212f56;
+	background-color: #010b12;
 	text-decoration: none;
 	font-size: 20px;
 	display: inline-block;
@@ -125,12 +125,12 @@ div.d-lg-none a.dropdown-item {
 }
 
 #receivesend:hover {
-	background-color: #dbb073;
+	background-color: #017ec2;
 }
 
 #Enviar {
-	color: #dbb073;
-	background-color: #212f56;
+	color: #017ec2;
+	background-color: #010b12;
 	text-decoration: none;
 	font-size: 20px;
 	display: inline-block;
@@ -138,21 +138,21 @@ div.d-lg-none a.dropdown-item {
 	-webkit-transition: background-color 0.5s;
 	-o-transition: background-color 0.5s;
 	transition: background-color 0.5s;
-	-webkit-box-shadow: 0px 2px 4px #dbb073;
+	-webkit-box-shadow: 0px 2px 4px #017ec2;
 	/* Saf3-4 */
-	-moz-box-shadow: 0px 2px 4px #dbb073;
+	-moz-box-shadow: 0px 2px 4px #017ec2;
 	/* FF3.5 - 3.6 */
-	box-shadow: 0px 2px 4px #dbb073;
+	box-shadow: 0px 2px 4px #017ec2;
 }
 
 #Enviar:hover {
-	color: #212f56;
-	background-color: #dbb073;
-	-webkit-box-shadow: 0px 2px 4px #212f56;
+	color: #010b12;
+	background-color: #017ec2;
+	-webkit-box-shadow: 0px 2px 4px #010b12;
 	/* Saf3-4 */
-	-moz-box-shadow: 0px 2px 4px #212f56;
+	-moz-box-shadow: 0px 2px 4px #010b12;
 	/* FF3.5 - 3.6 */
-	box-shadow: 0px 2px 4px #212f56;
+	box-shadow: 0px 2px 4px #010b12;
 }
 
 @keyframes map-anime {
@@ -182,7 +182,7 @@ div.d-lg-none a.dropdown-item {
 }
 
 #footer-menu {
-	background-color: #1d294b;
+	background-color: #010b12;
 	opacity: 0.9;
 }
 
@@ -227,17 +227,17 @@ div#service div.card-img-overlay {
 }
 
 div#service h3 {
-	color: #dbb073;
+	color: #017ec2;
 	font-weight: bolder;
 }
 
 div#service h2 {
-	color: #dbb073;
+	color: #017ec2;
 	font-weight: bolder;
 }
 
 div#service h1 {
-	color: #dbb073;
+	color: #017ec2;
 	font-weight: bolder;
 }
 
@@ -265,10 +265,10 @@ div#service h1 {
 }
 
 .add-experience:hover {
-	background: #dbb073;
-	color: #1d294b;
+	background: #017ec2;
+	color: #010b12;
 	cursor: pointer;
-	border: solid 1px #dbb073
+	border: solid 1px #017ec2
 }
 
 #smallbox {
