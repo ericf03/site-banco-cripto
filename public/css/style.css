@@ -91,7 +91,7 @@
 }
 
 div.d-lg-block ul.dropdown-menu {
-	background: rgba(0, 0, 0, 0.808);
+	background: #010b12;
 }
 
 div.d-lg-none ul.dropdown-menu {
@@ -223,7 +223,7 @@ section {
 }
 
 div#service div.card-img-overlay {
-	background-color: #000000ce;
+	background-color: #010b12;
 }
 
 div#service h3 {
@@ -273,4 +273,27 @@ div#service h1 {
 
 #smallbox {
 	cursor: pointer;
+}
+
+#btn-type1.btn {
+	color: white;
+	background-color: #017ec2;
+	border-color: #017ec2;
+}
+
+#btn-type1.btn:hover {
+	color: #017ec2;
+	background-color: #010b12;
+}
+
+#btn-type2.btn {
+	color: #017ec2;
+	background-color: #010b12;
+	border-color: #010b12;
+}
+
+#btn-type2.btn:hover {
+	color: #010b12;
+	background-color: white;
+	border-color: #010b12;
 }
