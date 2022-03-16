@@ -192,6 +192,7 @@ div.d-lg-none a.dropdown-item {
 
 #footer-menu h1 {
 	color: rgb(253, 252, 252);
+	text-transform: uppercase;
 }
 
 #footer-menu a {
