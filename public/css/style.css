@@ -227,6 +227,10 @@ div#service div.card-img-overlay {
 	background-color: #010b12;
 }
 
+div#row-service h6 {
+	font-size: 9px;
+}
+
 div#service h3 {
 	color: #017ec2;
 	font-weight: bolder;
